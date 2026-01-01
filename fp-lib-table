@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SSI")(type "KiCad")(uri "/Users/petemahowald/Documents/Github/samwise-avionics/footprint_libraries")(options "")(descr ""))
+  (lib (name "footprint_libraries")(type "KiCad")(uri "/Users/petemahowald/Documents/Github/samwise-avionics/footprint_libraries")(options "")(descr ""))
+  (lib (name "ssi_IC")(type "KiCad")(uri "/Users/petemahowald/Documents/Github/samwise-avionics/footprint_libraries/ssi_IC.pretty")(options "")(descr ""))
+)
