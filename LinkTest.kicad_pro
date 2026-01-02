@@ -494,6 +494,9 @@
       ],
       "Net-(J3-In)": [
         "50Ω"
+      ],
+      "Net-(J4-Pin_1)": [
+        "50Ω"
       ]
     },
     "netclass_patterns": []
