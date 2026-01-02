@@ -3663,7 +3663,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "347ecada-3585-4fc1-95e6-c86dacc1c2ca")
-		(at 140 124 180)
+		(at 139.95 125.5 180)
 		(property "Reference" "FL9"
 			(at 3.503919 -0.49155 0)
 			(layer "F.SilkS")
@@ -4817,7 +4817,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "4a2703bd-c620-412d-9df0-5f12583740c2")
-		(at 171 71)
+		(at 172.96 68.04)
 		(property "Reference" "J3"
 			(at 0 -5.08 0)
 			(layer "F.SilkS")
@@ -5094,7 +5094,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "89ea2b7f-b349-4802-a0bc-553e191f6390")
+			(uuid "2cb43ef8-7796-47d6-aef8-ea8dbcde056c")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -2.54)
@@ -5105,7 +5105,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "89ea2b7f-b349-4802-a0bc-553e191f6390")
+			(uuid "07463073-70f5-4df1-b775-1d4a3e3599c5")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 2.54)
@@ -5116,7 +5116,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "89ea2b7f-b349-4802-a0bc-553e191f6390")
+			(uuid "90703b7d-f686-4d9d-a6cc-f668ebc0c6a9")
 		)
 		(embedded_fonts no)
 		(model "${SAMWISE_AVIONICS}/3D_models/ssi_connector/SMA_901-144-horizontal.step"
@@ -7638,7 +7638,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "6f321210-e346-49e1-88f3-4eb09989158a")
-		(at 140 121.5 180)
+		(at 139.95 123 180)
 		(property "Reference" "FL7"
 			(at 3.5 0.25 0)
 			(layer "F.SilkS")
@@ -8764,7 +8764,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "7d2303b6-df92-4321-b3d5-11d234b5d677")
-		(at 181 103)
+		(at 167.55 98.5)
 		(property "Reference" "FL15"
 			(at 3.75 0 0)
 			(layer "F.SilkS")
@@ -9388,11 +9388,11 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "8a93f25e-dfec-43db-a995-5d8777c5eac3")
-		(at 168 77)
+		(at 167.45 96)
 		(property "Reference" "FL11"
 			(at 2.445 -2.889 0)
 			(layer "F.SilkS")
-			(uuid "00f7ac69-ae1a-49e6-a07e-501a81563507")
+			(uuid "42e94388-a882-4fea-86d2-e680d7e5083e")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -9403,7 +9403,7 @@
 		(property "Value" "NFM18CC101R1C3D"
 			(at 14.891 3.111 0)
 			(layer "F.Fab")
-			(uuid "f594175e-5f48-4f11-b2d7-ce40204651eb")
+			(uuid "c21861b3-e787-484f-ba73-96edc2b07921")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -9415,7 +9415,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49eb69ea-6c5c-4f43-905d-70e6b3a9edbb")
+			(uuid "b1835483-2953-4901-8100-aa7f2bbd372c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9427,7 +9427,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "03ba4bf1-7971-4a5b-a600-720e95ab9c2c")
+			(uuid "48b60d71-9fc0-4340-aded-b325fa4e08d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14846,7 +14846,7 @@
 			(net 71 "unconnected-(A1-GPIO0-Pad1)_1")
 			(pinfunction "GPIO0")
 			(pintype "bidirectional+no_connect")
-			(uuid "ed3cd299-3f11-4425-ac06-f37d768c00ac")
+			(uuid "823b852d-7592-4be1-ab78-760f474993e5")
 		)
 		(pad "2" smd roundrect
 			(at -9.69 -21.59)
@@ -14865,7 +14865,7 @@
 			(net 22 "unconnected-(A1-GPIO1-Pad2)_1")
 			(pinfunction "GPIO1")
 			(pintype "bidirectional+no_connect")
-			(uuid "5d6874f9-9b7d-4f32-9cd6-34b76ecd32f5")
+			(uuid "e0dfd612-c9dc-492a-9fd5-fb3ca415c420")
 		)
 		(pad "3" smd custom
 			(at -9.69 -19.05)
@@ -14939,7 +14939,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "3a54c255-a9b9-4198-b89e-113f5c6c0144")
+			(uuid "e8f8b586-8c18-4189-bfbf-dde88f1ea360")
 		)
 		(pad "4" smd roundrect
 			(at -9.69 -16.51)
@@ -14951,16 +14951,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "161b8234-07ec-42ce-a30f-956854d921c1")
 		)
-		(pad "4" thru_hole circle
+		(pad "4" smd circle
 			(at -8.89 -16.51)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 4 "unconnected-(A1-GPIO2-Pad4)")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional+no_connect")
-			(uuid "161b8234-07ec-42ce-a30f-956854d921c1")
+			(uuid "50d444de-f91a-4973-bebf-9c19ba187cdf")
 		)
 		(pad "5" smd roundrect
 			(at -9.69 -13.97)
@@ -14972,16 +14970,14 @@
 			(pintype "bidirectional")
 			(uuid "86fb9f7d-d0d8-449c-a7ff-6daa1a2301c5")
 		)
-		(pad "5" thru_hole circle
+		(pad "5" smd circle
 			(at -8.89 -13.97)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 21 "/NEOPIXEL")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
-			(uuid "86fb9f7d-d0d8-449c-a7ff-6daa1a2301c5")
+			(uuid "374b19fc-548f-4649-9605-9ee1e2b12f71")
 		)
 		(pad "6" smd roundrect
 			(at -9.69 -11.43)
@@ -14993,16 +14989,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "328748f1-c0ed-4610-98cb-7365f574a7fe")
 		)
-		(pad "6" thru_hole circle
+		(pad "6" smd circle
 			(at -8.89 -11.43)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 3 "unconnected-(A1-GPIO4-Pad6)_1")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional+no_connect")
-			(uuid "328748f1-c0ed-4610-98cb-7365f574a7fe")
+			(uuid "98af29b6-a443-428d-a5bb-7a81aee667a3")
 		)
 		(pad "7" smd roundrect
 			(at -9.69 -8.89)
@@ -15014,16 +15008,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "63e8a8af-f480-4b82-9d0c-a4c053a82df8")
 		)
-		(pad "7" thru_hole circle
+		(pad "7" smd circle
 			(at -8.89 -8.89)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 13 "unconnected-(A1-GPIO5-Pad7)")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional+no_connect")
-			(uuid "63e8a8af-f480-4b82-9d0c-a4c053a82df8")
+			(uuid "db2d3897-9673-4514-b27e-9df02ca9eca8")
 		)
 		(pad "8" smd custom
 			(at -9.69 -6.35)
@@ -15065,12 +15057,10 @@
 			)
 			(uuid "8f227b5d-a0d1-4094-96b9-cd6ba700edb1")
 		)
-		(pad "8" thru_hole custom
+		(pad "8" smd custom
 			(at -8.89 -6.35)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
@@ -15099,7 +15089,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "8f227b5d-a0d1-4094-96b9-cd6ba700edb1")
+			(uuid "2b42bbf4-4986-4807-a057-723c2819889f")
 		)
 		(pad "9" smd roundrect
 			(at -9.69 -3.81)
@@ -15111,16 +15101,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "707f40a5-f5ce-4142-945e-9798024b6b6e")
 		)
-		(pad "9" thru_hole circle
+		(pad "9" smd circle
 			(at -8.89 -3.81)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 17 "unconnected-(A1-GPIO6-Pad9)")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional+no_connect")
-			(uuid "707f40a5-f5ce-4142-945e-9798024b6b6e")
+			(uuid "6710496d-2b4d-48c8-9469-4c391a8e5269")
 		)
 		(pad "10" smd roundrect
 			(at -9.69 -1.27)
@@ -15132,16 +15120,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "0f9b8567-340c-4116-81db-27ad50592bc8")
 		)
-		(pad "10" thru_hole circle
+		(pad "10" smd circle
 			(at -8.89 -1.27)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 2 "unconnected-(A1-GPIO7-Pad10)")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional+no_connect")
-			(uuid "0f9b8567-340c-4116-81db-27ad50592bc8")
+			(uuid "ea31e2f5-1d76-4aad-8cb5-6fee4ec4b3d7")
 		)
 		(pad "11" smd roundrect
 			(at -9.69 1.27)
@@ -15153,16 +15139,14 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "89e08285-bb13-42a4-9134-d68b0a863ac0")
 		)
-		(pad "11" thru_hole circle
+		(pad "11" smd circle
 			(at -8.89 1.27)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 67 "unconnected-(A1-GPIO8-Pad11)_1")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional+no_connect")
-			(uuid "89e08285-bb13-42a4-9134-d68b0a863ac0")
+			(uuid "6645e44e-07eb-4874-adfc-fdaee4000b45")
 		)
 		(pad "12" smd roundrect
 			(at -9.69 3.81)
@@ -15174,16 +15158,14 @@
 			(pintype "bidirectional")
 			(uuid "12b17c9f-9aec-4e59-935d-df3a3bf88f90")
 		)
-		(pad "12" thru_hole circle
+		(pad "12" smd circle
 			(at -8.89 3.81)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 12 "SBAND_TXEN_C")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
-			(uuid "12b17c9f-9aec-4e59-935d-df3a3bf88f90")
+			(uuid "5dd71a7e-45b7-40ba-af0a-e1e9c338e02e")
 		)
 		(pad "13" smd custom
 			(at -9.69 6.35)
@@ -15225,12 +15207,10 @@
 			)
 			(uuid "8fd3fabe-a0fc-4df9-b208-844934902923")
 		)
-		(pad "13" thru_hole custom
+		(pad "13" smd custom
 			(at -8.89 6.35)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
@@ -15259,7 +15239,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "8fd3fabe-a0fc-4df9-b208-844934902923")
+			(uuid "9b878320-b870-482b-a4fb-1a018581dfe8")
 		)
 		(pad "14" smd roundrect
 			(at -9.69 8.89)
@@ -15271,16 +15251,14 @@
 			(pintype "bidirectional")
 			(uuid "98a788d4-3143-4be0-8f9f-1b55222cb80f")
 		)
-		(pad "14" thru_hole circle
+		(pad "14" smd circle
 			(at -8.89 8.89)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 56 "SBAND_RST_C")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
-			(uuid "98a788d4-3143-4be0-8f9f-1b55222cb80f")
+			(uuid "912031a8-ebab-4b4b-b879-0c2f8ee9aec2")
 		)
 		(pad "15" smd roundrect
 			(at -9.69 11.43)
@@ -15292,16 +15270,14 @@
 			(pintype "bidirectional")
 			(uuid "96c0df18-00e5-494a-ad14-871fcf8594e5")
 		)
-		(pad "15" thru_hole circle
+		(pad "15" smd circle
 			(at -8.89 11.43)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 8 "SBAND_RXEN_C")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
-			(uuid "96c0df18-00e5-494a-ad14-871fcf8594e5")
+			(uuid "83343cb4-0af9-43d7-bd4f-5ebb1264e48a")
 		)
 		(pad "16" smd roundrect
 			(at -9.69 13.97)
@@ -15313,16 +15289,14 @@
 			(pintype "bidirectional")
 			(uuid "c2898cb1-e0cd-4637-98dd-7fc52be48347")
 		)
-		(pad "16" thru_hole circle
+		(pad "16" smd circle
 			(at -8.89 13.97)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 26 "SDA_PWR")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
-			(uuid "c2898cb1-e0cd-4637-98dd-7fc52be48347")
+			(uuid "ff18932e-8b7a-4c62-a858-ed2e372b64e1")
 		)
 		(pad "17" smd roundrect
 			(at -9.69 16.51)
@@ -15334,16 +15308,14 @@
 			(pintype "bidirectional")
 			(uuid "e24db726-74b2-4ea2-b735-ff51441121df")
 		)
-		(pad "17" thru_hole circle
+		(pad "17" smd circle
 			(at -8.89 16.51)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 14 "SCL_PWR")
 			(pinfunction "GPIO13")
 			(pintype "bidirectional")
-			(uuid "e24db726-74b2-4ea2-b735-ff51441121df")
+			(uuid "07d72d5f-927d-4b3b-aed4-1e8981fedd09")
 		)
 		(pad "18" smd custom
 			(at -9.69 19.05)
@@ -15385,12 +15357,10 @@
 			)
 			(uuid "5d7ac5c1-59c4-4566-b213-58db18463c4c")
 		)
-		(pad "18" thru_hole custom
+		(pad "18" smd custom
 			(at -8.89 19.05)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
@@ -15419,7 +15389,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "5d7ac5c1-59c4-4566-b213-58db18463c4c")
+			(uuid "4143a81f-b9a5-4e33-a01d-71ed4de4ae54")
 		)
 		(pad "19" smd roundrect
 			(at -9.69 21.59)
@@ -15431,16 +15401,14 @@
 			(pintype "bidirectional")
 			(uuid "d7ec7ca9-2f50-4222-a969-ccc9c6291e6e")
 		)
-		(pad "19" thru_hole circle
+		(pad "19" smd circle
 			(at -8.89 21.59)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 23 "SBAND_CS_C")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
-			(uuid "d7ec7ca9-2f50-4222-a969-ccc9c6291e6e")
+			(uuid "2bf16930-f1d5-4efa-a5e7-51800868ff5a")
 		)
 		(pad "20" smd roundrect
 			(at -9.69 24.13)
@@ -15452,27 +15420,14 @@
 			(pintype "bidirectional")
 			(uuid "4d6eff05-bc29-4b89-bbcd-9191875debe1")
 		)
-		(pad "20" thru_hole circle
+		(pad "20" smd circle
 			(at -8.89 24.13)
 			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 58 "SBAND_BUSY_C")
 			(pinfunction "GPIO15")
 			(pintype "bidirectional")
-			(uuid "4d6eff05-bc29-4b89-bbcd-9191875debe1")
-		)
-		(pad "21" thru_hole circle
-			(at 8.89 24.13)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 61 "UHF_MISO_C")
-			(pinfunction "GPIO16")
-			(pintype "bidirectional")
-			(uuid "eceabddf-894b-41d7-b94c-60d5f38540bd")
+			(uuid "d7ddceeb-9ae3-4929-92aa-a71c7576b977")
 		)
 		(pad "21" smd roundrect
 			(at 9.69 24.13)
@@ -15482,18 +15437,7 @@
 			(net 61 "UHF_MISO_C")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
-			(uuid "eceabddf-894b-41d7-b94c-60d5f38540bd")
-		)
-		(pad "22" thru_hole circle
-			(at 8.89 21.59)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 59 "UHF_CS_C")
-			(pinfunction "GPIO17")
-			(pintype "bidirectional")
-			(uuid "cc9c0ea6-a189-49e4-9fb8-b3617d6b01ae")
+			(uuid "4cfad2d2-76eb-4249-948e-d627c1d2fa56")
 		)
 		(pad "22" smd roundrect
 			(at 9.69 21.59)
@@ -15503,43 +15447,7 @@
 			(net 59 "UHF_CS_C")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional")
-			(uuid "cc9c0ea6-a189-49e4-9fb8-b3617d6b01ae")
-		)
-		(pad "23" thru_hole custom
-			(at 8.89 19.05)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 27 "GND")
-			(pinfunction "GND")
-			(pintype "passive")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.8 0.6) (xy -0.8 -0.6) (xy -0.6 -0.8) (xy 0 -0.8) (xy 0 0.8) (xy -0.6 0.8)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 0.6)
-					(end -0.4 0.6)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 -0.6)
-					(end -0.4 -0.6)
-					(width 0)
-					(fill yes)
-				)
-			)
-			(uuid "887a1c38-7099-4887-8ccf-858ebbc044f4")
+			(uuid "06e8ae2e-7b70-46bf-a250-071c7a865719")
 		)
 		(pad "23" smd custom
 			(at 9.69 19.05)
@@ -15579,18 +15487,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "887a1c38-7099-4887-8ccf-858ebbc044f4")
-		)
-		(pad "24" thru_hole circle
-			(at 8.89 16.51)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 60 "UHF_SCK_C")
-			(pinfunction "GPIO18")
-			(pintype "bidirectional")
-			(uuid "7763c07e-201b-4991-bd8d-6fdd10481096")
+			(uuid "d00b57dd-c16c-452d-a518-4799ae2d5dea")
 		)
 		(pad "24" smd roundrect
 			(at 9.69 16.51)
@@ -15600,18 +15497,7 @@
 			(net 60 "UHF_SCK_C")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
-			(uuid "7763c07e-201b-4991-bd8d-6fdd10481096")
-		)
-		(pad "25" thru_hole circle
-			(at 8.89 13.97)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 64 "UHF_MOSI_C")
-			(pinfunction "GPIO19")
-			(pintype "bidirectional")
-			(uuid "9a32d2de-708b-46c6-a8b9-17d52c2b9cc8")
+			(uuid "ce39f415-738a-4365-a654-63fda018f382")
 		)
 		(pad "25" smd roundrect
 			(at 9.69 13.97)
@@ -15621,18 +15507,7 @@
 			(net 64 "UHF_MOSI_C")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
-			(uuid "9a32d2de-708b-46c6-a8b9-17d52c2b9cc8")
-		)
-		(pad "26" thru_hole circle
-			(at 8.89 11.43)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 62 "UHF_D0_C")
-			(pinfunction "GPIO20")
-			(pintype "bidirectional")
-			(uuid "df05e7ce-78df-42f4-867e-124c427ed869")
+			(uuid "2c86b6d9-67a8-4996-afaf-9f4492f76c1e")
 		)
 		(pad "26" smd roundrect
 			(at 9.69 11.43)
@@ -15642,18 +15517,7 @@
 			(net 62 "UHF_D0_C")
 			(pinfunction "GPIO20")
 			(pintype "bidirectional")
-			(uuid "df05e7ce-78df-42f4-867e-124c427ed869")
-		)
-		(pad "27" thru_hole circle
-			(at 8.89 8.89)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 15 "UHF_RST_C")
-			(pinfunction "GPIO21")
-			(pintype "bidirectional")
-			(uuid "8603a5b8-24d1-4563-913b-4b225a6235dd")
+			(uuid "9da36391-ab65-4dd0-939f-ca3f4f71e6fa")
 		)
 		(pad "27" smd roundrect
 			(at 9.69 8.89)
@@ -15663,43 +15527,7 @@
 			(net 15 "UHF_RST_C")
 			(pinfunction "GPIO21")
 			(pintype "bidirectional")
-			(uuid "8603a5b8-24d1-4563-913b-4b225a6235dd")
-		)
-		(pad "28" thru_hole custom
-			(at 8.89 6.35)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 27 "GND")
-			(pinfunction "GND")
-			(pintype "passive")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.8 0.6) (xy -0.8 -0.6) (xy -0.6 -0.8) (xy 0 -0.8) (xy 0 0.8) (xy -0.6 0.8)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 0.6)
-					(end -0.4 0.6)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 -0.6)
-					(end -0.4 -0.6)
-					(width 0)
-					(fill yes)
-				)
-			)
-			(uuid "af86db40-a133-4337-81e0-82da1b75799e")
+			(uuid "c7d7df25-a65f-457b-8d5f-a61636d8c5c3")
 		)
 		(pad "28" smd custom
 			(at 9.69 6.35)
@@ -15739,18 +15567,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "af86db40-a133-4337-81e0-82da1b75799e")
-		)
-		(pad "29" thru_hole circle
-			(at 8.89 3.81)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 63 "SBAND_D1_C")
-			(pinfunction "GPIO22")
-			(pintype "bidirectional")
-			(uuid "e83f6971-68f8-4d83-95bd-d5ddf374bc3a")
+			(uuid "cb4bdcfc-0e8d-409d-8a2e-81dd964b0f32")
 		)
 		(pad "29" smd roundrect
 			(at 9.69 3.81)
@@ -15760,18 +15577,7 @@
 			(net 63 "SBAND_D1_C")
 			(pinfunction "GPIO22")
 			(pintype "bidirectional")
-			(uuid "e83f6971-68f8-4d83-95bd-d5ddf374bc3a")
-		)
-		(pad "30" thru_hole circle
-			(at 8.89 1.27)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 70 "unconnected-(A1-RUN-Pad30)_1")
-			(pinfunction "RUN")
-			(pintype "passive+no_connect")
-			(uuid "c6548c27-fc70-41bd-8836-b2f573e99ecd")
+			(uuid "db9bfc00-8cfd-435f-af9b-e0c724299ecb")
 		)
 		(pad "30" smd roundrect
 			(at 9.69 1.27)
@@ -15781,18 +15587,7 @@
 			(net 70 "unconnected-(A1-RUN-Pad30)_1")
 			(pinfunction "RUN")
 			(pintype "passive+no_connect")
-			(uuid "c6548c27-fc70-41bd-8836-b2f573e99ecd")
-		)
-		(pad "31" thru_hole circle
-			(at 8.89 -1.27)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 68 "SBAND_SCK_C")
-			(pinfunction "GPIO26_ADC0")
-			(pintype "bidirectional")
-			(uuid "8cb935af-ffe8-4e73-acf8-cb858ec42067")
+			(uuid "7e6a0ab7-1b32-443e-afd3-0ffd6e6f226b")
 		)
 		(pad "31" smd roundrect
 			(at 9.69 -1.27)
@@ -15802,18 +15597,7 @@
 			(net 68 "SBAND_SCK_C")
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional")
-			(uuid "8cb935af-ffe8-4e73-acf8-cb858ec42067")
-		)
-		(pad "32" thru_hole circle
-			(at 8.89 -3.81)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 57 "SBAND_MOSI_C")
-			(pinfunction "GPIO27_ADC1")
-			(pintype "bidirectional")
-			(uuid "45d76486-308a-4996-8bf8-61833c59c851")
+			(uuid "3426898b-bab9-4baf-8abe-aa85419358e1")
 		)
 		(pad "32" smd roundrect
 			(at 9.69 -3.81)
@@ -15823,43 +15607,7 @@
 			(net 57 "SBAND_MOSI_C")
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional")
-			(uuid "45d76486-308a-4996-8bf8-61833c59c851")
-		)
-		(pad "33" thru_hole custom
-			(at 8.89 -6.35)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 27 "GND")
-			(pinfunction "AGND")
-			(pintype "power_out")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.8 0.6) (xy -0.8 -0.6) (xy -0.6 -0.8) (xy 0 -0.8) (xy 0 0.8) (xy -0.6 0.8)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 0.6)
-					(end -0.4 0.6)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 -0.6)
-					(end -0.4 -0.6)
-					(width 0)
-					(fill yes)
-				)
-			)
-			(uuid "e735c3a3-0084-4e31-b7ad-9eeddbc9c546")
+			(uuid "e45c7ad1-d96c-4430-a8a5-6b112af2048f")
 		)
 		(pad "33" smd custom
 			(at 9.69 -6.35)
@@ -15899,18 +15647,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "e735c3a3-0084-4e31-b7ad-9eeddbc9c546")
-		)
-		(pad "34" thru_hole circle
-			(at 8.89 -8.89)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 20 "SBAND_MISO_C")
-			(pinfunction "GPIO28_ADC2")
-			(pintype "bidirectional")
-			(uuid "56e2a853-0a7b-46cf-a827-ab1c77e3f8a0")
+			(uuid "f44f003a-a822-4820-98a3-506d3fc98246")
 		)
 		(pad "34" smd roundrect
 			(at 9.69 -8.89)
@@ -15920,18 +15657,7 @@
 			(net 20 "SBAND_MISO_C")
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional")
-			(uuid "56e2a853-0a7b-46cf-a827-ab1c77e3f8a0")
-		)
-		(pad "35" thru_hole circle
-			(at 8.89 -11.43)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 45 "unconnected-(A1-ADC_VREF-Pad35)_1")
-			(pinfunction "ADC_VREF")
-			(pintype "power_in+no_connect")
-			(uuid "65d0e93f-762a-4149-af31-32da8dcb8865")
+			(uuid "f053120e-894b-4999-9415-ab2fe34e18f8")
 		)
 		(pad "35" smd roundrect
 			(at 9.69 -11.43)
@@ -15941,18 +15667,7 @@
 			(net 45 "unconnected-(A1-ADC_VREF-Pad35)_1")
 			(pinfunction "ADC_VREF")
 			(pintype "power_in+no_connect")
-			(uuid "65d0e93f-762a-4149-af31-32da8dcb8865")
-		)
-		(pad "36" thru_hole circle
-			(at 8.89 -13.97)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 25 "3.3V")
-			(pinfunction "3V3")
-			(pintype "power_out")
-			(uuid "c389d47e-e4a6-4818-9ae4-5f3491175c82")
+			(uuid "27ca4876-1eba-4233-9ff9-7a8854194f95")
 		)
 		(pad "36" smd roundrect
 			(at 9.69 -13.97)
@@ -15962,18 +15677,7 @@
 			(net 25 "3.3V")
 			(pinfunction "3V3")
 			(pintype "power_out")
-			(uuid "c389d47e-e4a6-4818-9ae4-5f3491175c82")
-		)
-		(pad "37" thru_hole circle
-			(at 8.89 -16.51)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 66 "unconnected-(A1-3V3_EN-Pad37)_1")
-			(pinfunction "3V3_EN")
-			(pintype "passive+no_connect")
-			(uuid "7c2df639-63ca-4cb3-86b8-a205731e1533")
+			(uuid "fe940ed3-e47c-4a44-8c7d-75c84a922160")
 		)
 		(pad "37" smd roundrect
 			(at 9.69 -16.51)
@@ -15983,43 +15687,7 @@
 			(net 66 "unconnected-(A1-3V3_EN-Pad37)_1")
 			(pinfunction "3V3_EN")
 			(pintype "passive+no_connect")
-			(uuid "7c2df639-63ca-4cb3-86b8-a205731e1533")
-		)
-		(pad "38" thru_hole custom
-			(at 8.89 -19.05)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 27 "GND")
-			(pinfunction "GND")
-			(pintype "passive")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.8 0.6) (xy -0.8 -0.6) (xy -0.6 -0.8) (xy 0 -0.8) (xy 0 0.8) (xy -0.6 0.8)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 0.6)
-					(end -0.4 0.6)
-					(width 0)
-					(fill yes)
-				)
-				(gr_circle
-					(center -0.6 -0.6)
-					(end -0.4 -0.6)
-					(width 0)
-					(fill yes)
-				)
-			)
-			(uuid "f400d858-c81f-4be6-be30-38eab0b30e97")
+			(uuid "8f2f0c02-8505-4dd2-a360-3aed890ba965")
 		)
 		(pad "38" smd custom
 			(at 9.69 -19.05)
@@ -16059,18 +15727,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "f400d858-c81f-4be6-be30-38eab0b30e97")
-		)
-		(pad "39" thru_hole circle
-			(at 8.89 -21.59)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 69 "unconnected-(A1-VSYS-Pad39)_1")
-			(pinfunction "VSYS")
-			(pintype "power_in+no_connect")
-			(uuid "b5687938-fbc2-4bca-b569-7391ce1efe18")
+			(uuid "8fbeece4-b0cd-4074-a10f-43166530550f")
 		)
 		(pad "39" smd roundrect
 			(at 9.69 -21.59)
@@ -16080,18 +15737,7 @@
 			(net 69 "unconnected-(A1-VSYS-Pad39)_1")
 			(pinfunction "VSYS")
 			(pintype "power_in+no_connect")
-			(uuid "b5687938-fbc2-4bca-b569-7391ce1efe18")
-		)
-		(pad "40" thru_hole circle
-			(at 8.89 -24.13)
-			(size 1.6 1.6)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 11 "5V")
-			(pinfunction "VBUS")
-			(pintype "power_out")
-			(uuid "e99a4116-e7b2-4e94-92e2-11052343ceae")
+			(uuid "0cf50138-c433-4f1c-9df3-110ae1d14b33")
 		)
 		(pad "40" smd roundrect
 			(at 9.69 -24.13)
@@ -16101,7 +15747,7 @@
 			(net 11 "5V")
 			(pinfunction "VBUS")
 			(pintype "power_out")
-			(uuid "e99a4116-e7b2-4e94-92e2-11052343ceae")
+			(uuid "44d7a84e-c276-4603-8a1a-19dd2a7b1b74")
 		)
 		(zone
 			(net 0)
@@ -16977,34 +16623,6 @@
 			)
 		)
 		(group ""
-			(uuid "ab8f01e2-4af8-4a9e-b9c6-32bdaa6bab35")
-			(members "04204006-ecad-4ac0-b293-d543dfd4dc3b" "0f9b8567-340c-4116-81db-27ad50592bc8"
-				"12b17c9f-9aec-4e59-935d-df3a3bf88f90" "161b8234-07ec-42ce-a30f-956854d921c1"
-				"328748f1-c0ed-4610-98cb-7365f574a7fe" "3a54c255-a9b9-4198-b89e-113f5c6c0144"
-				"45d76486-308a-4996-8bf8-61833c59c851" "4d6eff05-bc29-4b89-bbcd-9191875debe1"
-				"4de0dfb0-6c1a-4905-aec8-064ae257b84e" "56e2a853-0a7b-46cf-a827-ab1c77e3f8a0"
-				"5d6874f9-9b7d-4f32-9cd6-34b76ecd32f5" "5d7ac5c1-59c4-4566-b213-58db18463c4c"
-				"63e8a8af-f480-4b82-9d0c-a4c053a82df8" "65d0e93f-762a-4149-af31-32da8dcb8865"
-				"707f40a5-f5ce-4142-945e-9798024b6b6e" "753251f4-064f-4338-b7fd-c67067657a72"
-				"7763c07e-201b-4991-bd8d-6fdd10481096" "7c2df639-63ca-4cb3-86b8-a205731e1533"
-				"8603a5b8-24d1-4563-913b-4b225a6235dd" "86ca723e-5369-4f47-833a-5090a1f64928"
-				"86fb9f7d-d0d8-449c-a7ff-6daa1a2301c5" "887a1c38-7099-4887-8ccf-858ebbc044f4"
-				"89e08285-bb13-42a4-9134-d68b0a863ac0" "8cb935af-ffe8-4e73-acf8-cb858ec42067"
-				"8d752b94-5ac7-45c0-994c-7f77f6e75747" "8f227b5d-a0d1-4094-96b9-cd6ba700edb1"
-				"8fd3fabe-a0fc-4df9-b208-844934902923" "96c0df18-00e5-494a-ad14-871fcf8594e5"
-				"98a788d4-3143-4be0-8f9f-1b55222cb80f" "9a32d2de-708b-46c6-a8b9-17d52c2b9cc8"
-				"af86db40-a133-4337-81e0-82da1b75799e" "b5687938-fbc2-4bca-b569-7391ce1efe18"
-				"c2898cb1-e0cd-4637-98dd-7fc52be48347" "c389d47e-e4a6-4818-9ae4-5f3491175c82"
-				"c6548c27-fc70-41bd-8836-b2f573e99ecd" "cc9c0ea6-a189-49e4-9fb8-b3617d6b01ae"
-				"d423687c-8839-4889-9ee0-10957a71a610" "d7ec7ca9-2f50-4222-a969-ccc9c6291e6e"
-				"dab25037-049e-493f-ab20-5afa7d698927" "dd6497d2-b603-4a9f-a293-fa9a329c8047"
-				"df05e7ce-78df-42f4-867e-124c427ed869" "e24db726-74b2-4ea2-b735-ff51441121df"
-				"e735c3a3-0084-4e31-b7ad-9eeddbc9c546" "e83f6971-68f8-4d83-95bd-d5ddf374bc3a"
-				"e99a4116-e7b2-4e94-92e2-11052343ceae" "eceabddf-894b-41d7-b94c-60d5f38540bd"
-				"ed3cd299-3f11-4425-ac06-f37d768c00ac" "f400d858-c81f-4be6-be30-38eab0b30e97"
-			)
-		)
-		(group ""
 			(uuid "1bd0ffd7-e621-491d-b50f-00ca970a709f")
 			(members "01869e91-3ce8-426f-ae78-e1b03f6e015a" "0d6c5745-0b29-4b28-a137-c2dcd1e10f18"
 				"14a55220-9fb6-4f10-98bf-d1ca1eabcca7" "170cd8a9-8c5e-4326-8170-2785eee4ffe9"
@@ -17035,36 +16653,26 @@
 				"277089ef-2726-450b-a0fe-89d76230e6d3" "328748f1-c0ed-4610-98cb-7365f574a7fe"
 				"336b9bd1-ceb9-4fed-a2b3-110b7fe0ac74" "3a54c255-a9b9-4198-b89e-113f5c6c0144"
 				"3b437dbe-a171-4d3d-b190-44faa06f54d5" "3b4c2c74-8737-46a6-a477-5839ce6e3c64"
-				"45d76486-308a-4996-8bf8-61833c59c851" "4855fe5d-39a6-4df9-9d14-8ff947412eb1"
-				"4ad395ac-423d-45af-82e0-43dcdba88b91" "4b25b8ed-8700-493d-9589-ed9abca0538d"
-				"4d6eff05-bc29-4b89-bbcd-9191875debe1" "5013adb1-8831-49d4-b32d-80b275a4f49e"
-				"54d80f08-3abc-401a-a9d9-7b5acf451859" "56e2a853-0a7b-46cf-a827-ab1c77e3f8a0"
+				"4855fe5d-39a6-4df9-9d14-8ff947412eb1" "4ad395ac-423d-45af-82e0-43dcdba88b91"
+				"4b25b8ed-8700-493d-9589-ed9abca0538d" "4d6eff05-bc29-4b89-bbcd-9191875debe1"
+				"5013adb1-8831-49d4-b32d-80b275a4f49e" "54d80f08-3abc-401a-a9d9-7b5acf451859"
 				"5d6874f9-9b7d-4f32-9cd6-34b76ecd32f5" "5d7ac5c1-59c4-4566-b213-58db18463c4c"
 				"5d891051-92e2-401e-b8e9-04e793351453" "5fe57d8f-4d5d-49a6-bed7-c4f6d2648c0a"
-				"63e8a8af-f480-4b82-9d0c-a4c053a82df8" "65d0e93f-762a-4149-af31-32da8dcb8865"
-				"665f6a21-1a92-4e8e-b12f-30227df35c53" "6e589d27-bf02-4dc7-8ccf-2e7031c49346"
-				"707f40a5-f5ce-4142-945e-9798024b6b6e" "7763c07e-201b-4991-bd8d-6fdd10481096"
-				"7c2df639-63ca-4cb3-86b8-a205731e1533" "80f0a98f-59e6-44e4-8110-12bbf5e52ce8"
-				"8603a5b8-24d1-4563-913b-4b225a6235dd" "86fb9f7d-d0d8-449c-a7ff-6daa1a2301c5"
-				"887a1c38-7099-4887-8ccf-858ebbc044f4" "89c3ea85-8366-4f8b-8544-79b5237893a6"
-				"89e08285-bb13-42a4-9134-d68b0a863ac0" "8cb935af-ffe8-4e73-acf8-cb858ec42067"
+				"63e8a8af-f480-4b82-9d0c-a4c053a82df8" "665f6a21-1a92-4e8e-b12f-30227df35c53"
+				"6e589d27-bf02-4dc7-8ccf-2e7031c49346" "707f40a5-f5ce-4142-945e-9798024b6b6e"
+				"80f0a98f-59e6-44e4-8110-12bbf5e52ce8" "86fb9f7d-d0d8-449c-a7ff-6daa1a2301c5"
+				"89c3ea85-8366-4f8b-8544-79b5237893a6" "89e08285-bb13-42a4-9134-d68b0a863ac0"
 				"8f227b5d-a0d1-4094-96b9-cd6ba700edb1" "8fd3fabe-a0fc-4df9-b208-844934902923"
 				"96c0df18-00e5-494a-ad14-871fcf8594e5" "98a788d4-3143-4be0-8f9f-1b55222cb80f"
-				"98c88a2f-10d1-490f-a337-dbb6c183db64" "9a32d2de-708b-46c6-a8b9-17d52c2b9cc8"
-				"a46ce2bd-e271-4829-907c-1b780b4f7827" "ae005b9b-d5e4-4c6a-b33d-624d03078276"
-				"af86db40-a133-4337-81e0-82da1b75799e" "b3c99a85-00f4-4ae3-8a5e-3f4fe2c29df4"
-				"b5687938-fbc2-4bca-b569-7391ce1efe18" "c2898cb1-e0cd-4637-98dd-7fc52be48347"
-				"c389d47e-e4a6-4818-9ae4-5f3491175c82" "c4245c38-a976-4557-b2bb-9fe42c15432f"
-				"c6548c27-fc70-41bd-8836-b2f573e99ecd" "cc9c0ea6-a189-49e4-9fb8-b3617d6b01ae"
+				"98c88a2f-10d1-490f-a337-dbb6c183db64" "a46ce2bd-e271-4829-907c-1b780b4f7827"
+				"ae005b9b-d5e4-4c6a-b33d-624d03078276" "b3c99a85-00f4-4ae3-8a5e-3f4fe2c29df4"
+				"c2898cb1-e0cd-4637-98dd-7fc52be48347" "c4245c38-a976-4557-b2bb-9fe42c15432f"
 				"cccc03e4-8818-4442-bdd6-86e502bf0b32" "cde4d6c9-02e1-4f11-afdf-4c99e6dafb14"
 				"d0aff614-357f-43d9-bcc3-f36b17869ace" "d0ea6a22-d420-42d7-8d08-20851f4b1641"
 				"d7ec7ca9-2f50-4222-a969-ccc9c6291e6e" "da8a18e4-e4c8-4dea-9de4-f7eb6042e77a"
-				"de8816d5-a5af-4fcb-a5cc-a627f60c8906" "df05e7ce-78df-42f4-867e-124c427ed869"
-				"e24db726-74b2-4ea2-b735-ff51441121df" "e40585e0-acd3-4fa9-a1c8-914262732024"
-				"e5bb0ba0-d427-468e-a363-65e56270e8d4" "e735c3a3-0084-4e31-b7ad-9eeddbc9c546"
-				"e83f6971-68f8-4d83-95bd-d5ddf374bc3a" "e99a4116-e7b2-4e94-92e2-11052343ceae"
-				"eceabddf-894b-41d7-b94c-60d5f38540bd" "ed3cd299-3f11-4425-ac06-f37d768c00ac"
-				"ef3f9277-0f5e-4f13-8f12-0f37c2d2e22c" "f400d858-c81f-4be6-be30-38eab0b30e97"
+				"de8816d5-a5af-4fcb-a5cc-a627f60c8906" "e24db726-74b2-4ea2-b735-ff51441121df"
+				"e40585e0-acd3-4fa9-a1c8-914262732024" "e5bb0ba0-d427-468e-a363-65e56270e8d4"
+				"ed3cd299-3f11-4425-ac06-f37d768c00ac" "ef3f9277-0f5e-4f13-8f12-0f37c2d2e22c"
 			)
 		)
 		(group ""
@@ -17084,6 +16692,14 @@
 		(group ""
 			(uuid "4388eb87-12f5-4462-a857-b1e105ce08aa")
 			(members "b2765342-40b0-4812-a8eb-adcc02a1fa4c" "f0bb14ce-5f7f-48b5-b3e1-47f4d823b1bf")
+		)
+		(group ""
+			(uuid "ab8f01e2-4af8-4a9e-b9c6-32bdaa6bab35")
+			(members "04204006-ecad-4ac0-b293-d543dfd4dc3b" "4de0dfb0-6c1a-4905-aec8-064ae257b84e"
+				"753251f4-064f-4338-b7fd-c67067657a72" "86ca723e-5369-4f47-833a-5090a1f64928"
+				"8d752b94-5ac7-45c0-994c-7f77f6e75747" "d423687c-8839-4889-9ee0-10957a71a610"
+				"dab25037-049e-493f-ab20-5afa7d698927" "dd6497d2-b603-4a9f-a293-fa9a329c8047"
+			)
 		)
 		(group ""
 			(uuid "c73d75ec-e81c-4050-8833-5d758803b47c")
@@ -20639,7 +20255,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "82d3d043-e08d-4d8b-8f1c-442aa385ab83")
+			(uuid "be82e982-0927-4b85-af70-cda4252195ae")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -2.54)
@@ -20650,7 +20266,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "82d3d043-e08d-4d8b-8f1c-442aa385ab83")
+			(uuid "61c90db9-fed6-4b1d-9f4e-77262effcb69")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 2.54)
@@ -20661,7 +20277,7 @@
 			(net 27 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "82d3d043-e08d-4d8b-8f1c-442aa385ab83")
+			(uuid "dafe27af-2197-4008-ba7a-aad8ac483cb2")
 		)
 		(embedded_fonts no)
 		(model "${SAMWISE_AVIONICS}/3D_models/ssi_connector/SMA_901-144-horizontal.step"
@@ -21210,9 +20826,9 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "036d8e58-56c9-47fb-88e9-71332ccc119b")
-		(at 140 129)
+		(at 137 119.8 90)
 		(property "Reference" "FL22"
-			(at 2.445 2.889 180)
+			(at -4.45 0.25 90)
 			(layer "B.SilkS")
 			(uuid "6273c0d3-dd1d-4f12-bcf6-ccf26eb5eeac")
 			(effects
@@ -21224,7 +20840,7 @@
 			)
 		)
 		(property "Value" "NFM18CC101R1C3D"
-			(at 14.891 -3.111 180)
+			(at 14.891 -3.111 90)
 			(layer "B.Fab")
 			(uuid "5719d3f1-234f-4130-ad12-1372e865d361")
 			(effects
@@ -21236,7 +20852,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "57ef8f42-94b4-409e-9469-9d26ccc4db60")
@@ -21249,7 +20865,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a1c939d4-2f8e-482f-97ad-a9fb3da81b59")
@@ -21262,7 +20878,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-6961-1-ND"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21276,7 +20892,7 @@
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21290,7 +20906,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Cap Feed Through 220pF 16VDC 20% Flat 0603 125C"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21304,7 +20920,7 @@
 			)
 		)
 		(property "PACKAGE" "0603 Murata"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21318,7 +20934,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21332,7 +20948,7 @@
 			)
 		)
 		(property "Package" "NONSTANDARD"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21346,7 +20962,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21360,7 +20976,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21374,7 +20990,7 @@
 			)
 		)
 		(property "MP" "NFM18CC101R1C3D"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21388,7 +21004,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21402,7 +21018,7 @@
 			)
 		)
 		(property "Description_1" "100 pF Feed Through Capacitor 16V 500 mA 300mOhm 0603 (1608 Metric), 3 PC Pad"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -21421,18 +21037,6 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "a3832af7-49bd-46e8-aeee-86d2f0fbcc0d")
-		)
-		(fp_poly
-			(pts
 				(xy -0.2 -0.2) (xy 0.2 -0.2) (xy 0.2 -0.6) (xy -0.2 -0.6)
 			)
 			(stroke
@@ -21442,18 +21046,6 @@
 			(fill yes)
 			(layer "B.Mask")
 			(uuid "ae8374d1-0bbe-4966-8bff-d19b1f8adc51")
-		)
-		(fp_poly
-			(pts
-				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "6170702d-778f-494c-b18c-4ea79f67f418")
 		)
 		(fp_poly
 			(pts
@@ -21467,6 +21059,30 @@
 			(layer "B.Mask")
 			(uuid "ce4a545b-44de-4f51-84e6-46844077e5d8")
 		)
+		(fp_poly
+			(pts
+				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "a3832af7-49bd-46e8-aeee-86d2f0fbcc0d")
+		)
+		(fp_poly
+			(pts
+				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "6170702d-778f-494c-b18c-4ea79f67f418")
+		)
 		(fp_circle
 			(center -1.55 0)
 			(end -1.45 0)
@@ -21479,26 +21095,6 @@
 			(uuid "f61eae74-9d78-43ad-af9b-a680f1ea6b4b")
 		)
 		(fp_line
-			(start -1.35 -1.2)
-			(end -1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "858beb48-7413-4a41-ad55-d8b9934bcac8")
-		)
-		(fp_line
-			(start -1.35 1.2)
-			(end 1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "ec71f83d-418e-45ef-bf55-eb2df8f9b009")
-		)
-		(fp_line
 			(start 1.35 -1.2)
 			(end -1.35 -1.2)
 			(stroke
@@ -21507,6 +21103,16 @@
 			)
 			(layer "B.CrtYd")
 			(uuid "731a1023-c1a6-4616-bdcf-bdc5347675f9")
+		)
+		(fp_line
+			(start -1.35 -1.2)
+			(end -1.35 1.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "858beb48-7413-4a41-ad55-d8b9934bcac8")
 		)
 		(fp_line
 			(start 1.35 1.2)
@@ -21519,24 +21125,14 @@
 			(uuid "2a3b0158-2569-48b5-9c87-344b69189348")
 		)
 		(fp_line
-			(start -0.8 -0.4)
-			(end 0.8 -0.4)
+			(start -1.35 1.2)
+			(end 1.35 1.2)
 			(stroke
-				(width 0.127)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "B.Fab")
-			(uuid "7c1a8dd0-b05c-47eb-a71d-dd22b47e8a74")
-		)
-		(fp_line
-			(start -0.8 0.4)
-			(end -0.8 -0.4)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "e592fc2c-6290-428f-a349-b53d6723d220")
+			(layer "B.CrtYd")
+			(uuid "ec71f83d-418e-45ef-bf55-eb2df8f9b009")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -21549,6 +21145,16 @@
 			(uuid "7dc84910-7028-40c4-b03c-559749a1d64a")
 		)
 		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7c1a8dd0-b05c-47eb-a71d-dd22b47e8a74")
+		)
+		(fp_line
 			(start 0.8 0.4)
 			(end -0.8 0.4)
 			(stroke
@@ -21557,6 +21163,16 @@
 			)
 			(layer "B.Fab")
 			(uuid "6ca5ac35-c14a-4bff-a24f-d648dba2149b")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e592fc2c-6290-428f-a349-b53d6723d220")
 		)
 		(fp_circle
 			(center -1.55 0)
@@ -21570,7 +21186,7 @@
 			(uuid "79f6305c-726c-40bb-92eb-4b66fdb28c4a")
 		)
 		(pad "1" smd rect
-			(at -0.8 0)
+			(at -0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 92 "Net-(FL21-Pad3)")
@@ -21578,7 +21194,7 @@
 			(uuid "669c1e72-d79d-4966-9c3d-9c084c3cf993")
 		)
 		(pad "2" smd custom
-			(at 0 0.4)
+			(at 0 0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -21599,7 +21215,7 @@
 			(uuid "920e26cd-f90d-47bf-a1eb-31e52a1dcf31")
 		)
 		(pad "2_1" smd rect
-			(at 0 -0.4)
+			(at 0 -0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -21607,7 +21223,7 @@
 			(uuid "87d09677-f0c0-479b-a95e-a3bda289eadc")
 		)
 		(pad "2_2" thru_hole circle
-			(at 0 0.75)
+			(at 0 0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -21617,7 +21233,7 @@
 			(uuid "27cf4c49-27f9-4873-bc51-6848c619f641")
 		)
 		(pad "2_3" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -21627,7 +21243,7 @@
 			(uuid "d982a82f-0866-42a4-9e0e-1b8512abc82f")
 		)
 		(pad "2_4" thru_hole circle
-			(at 0 -0.75)
+			(at 0 -0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -21637,7 +21253,7 @@
 			(uuid "15606133-49e4-4738-9258-da2627cf6346")
 		)
 		(pad "3" smd rect
-			(at 0.8 0)
+			(at 0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 16 "UHF_CS")
@@ -23559,9 +23175,9 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "4f457dfb-dc6f-4788-a532-c721ca182e43")
-		(at 140 120)
+		(at 142.75 127.25 180)
 		(property "Reference" "FL20"
-			(at 2.445 2.889 180)
+			(at -4 0.4 0)
 			(layer "B.SilkS")
 			(uuid "0d892532-bfa6-4dae-b8ce-336f8dda619a")
 			(effects
@@ -23573,7 +23189,7 @@
 			)
 		)
 		(property "Value" "NFM18CC101R1C3D"
-			(at 14.891 -3.111 180)
+			(at 14.891 -3.111 0)
 			(layer "B.Fab")
 			(uuid "d93b7094-12c1-4a02-b43b-b253c2b7ee13")
 			(effects
@@ -23585,7 +23201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "59bbf746-5818-4e20-bb85-43afb453be20")
@@ -23598,7 +23214,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "06d411b6-3ecc-46ac-835a-911580df1802")
@@ -23611,7 +23227,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-6961-1-ND"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23625,7 +23241,7 @@
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23639,7 +23255,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Cap Feed Through 220pF 16VDC 20% Flat 0603 125C"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23653,7 +23269,7 @@
 			)
 		)
 		(property "PACKAGE" "0603 Murata"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23667,7 +23283,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23681,7 +23297,7 @@
 			)
 		)
 		(property "Package" "NONSTANDARD"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23695,7 +23311,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23709,7 +23325,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23723,7 +23339,7 @@
 			)
 		)
 		(property "MP" "NFM18CC101R1C3D"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23737,7 +23353,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23751,7 +23367,7 @@
 			)
 		)
 		(property "Description_1" "100 pF Feed Through Capacitor 16V 500 mA 300mOhm 0603 (1608 Metric), 3 PC Pad"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -23770,7 +23386,7 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
+				(xy 0.5 0.3) (xy 1.1 0.3) (xy 1.1 -0.3) (xy 0.5 -0.3)
 			)
 			(stroke
 				(width 0.01)
@@ -23778,19 +23394,7 @@
 			)
 			(fill yes)
 			(layer "B.Mask")
-			(uuid "91475027-2577-449d-b261-e14c75dc8087")
-		)
-		(fp_poly
-			(pts
-				(xy -0.2 -0.2) (xy 0.2 -0.2) (xy 0.2 -0.6) (xy -0.2 -0.6)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "a408bfad-890d-406c-992a-61135f10cfe5")
+			(uuid "983cc124-c549-4798-aa01-504bffe30890")
 		)
 		(fp_poly
 			(pts
@@ -23806,7 +23410,7 @@
 		)
 		(fp_poly
 			(pts
-				(xy 0.5 0.3) (xy 1.1 0.3) (xy 1.1 -0.3) (xy 0.5 -0.3)
+				(xy -0.2 -0.2) (xy 0.2 -0.2) (xy 0.2 -0.6) (xy -0.2 -0.6)
 			)
 			(stroke
 				(width 0.01)
@@ -23814,7 +23418,19 @@
 			)
 			(fill yes)
 			(layer "B.Mask")
-			(uuid "983cc124-c549-4798-aa01-504bffe30890")
+			(uuid "a408bfad-890d-406c-992a-61135f10cfe5")
+		)
+		(fp_poly
+			(pts
+				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "91475027-2577-449d-b261-e14c75dc8087")
 		)
 		(fp_circle
 			(center -1.55 0)
@@ -23828,24 +23444,14 @@
 			(uuid "b6da0ee1-9f3d-4ce7-bb4f-0b18653704d3")
 		)
 		(fp_line
-			(start -1.35 -1.2)
-			(end -1.35 1.2)
+			(start 1.35 1.2)
+			(end 1.35 -1.2)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "1c5f787e-65ec-434d-8268-7f07d7c9dd26")
-		)
-		(fp_line
-			(start -1.35 1.2)
-			(end 1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "29284b16-3c24-42b5-a900-e90d98546f26")
+			(uuid "02514521-2797-4d76-926f-83aa15311fc8")
 		)
 		(fp_line
 			(start 1.35 -1.2)
@@ -23858,34 +23464,34 @@
 			(uuid "98be9351-fa08-4a1f-8fe0-f90e8b8a55ec")
 		)
 		(fp_line
-			(start 1.35 1.2)
-			(end 1.35 -1.2)
+			(start -1.35 1.2)
+			(end 1.35 1.2)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "02514521-2797-4d76-926f-83aa15311fc8")
+			(uuid "29284b16-3c24-42b5-a900-e90d98546f26")
 		)
 		(fp_line
-			(start -0.8 -0.4)
-			(end 0.8 -0.4)
+			(start -1.35 -1.2)
+			(end -1.35 1.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "1c5f787e-65ec-434d-8268-7f07d7c9dd26")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "0aaecf64-ac1d-49c8-b5d6-273f611f764e")
-		)
-		(fp_line
-			(start -0.8 0.4)
-			(end -0.8 -0.4)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "e053b762-106a-49b1-bf4c-6b47c0c5542d")
+			(uuid "ce7f41d2-ebd5-4d13-bc9f-eb1d3aff92bc")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -23898,14 +23504,24 @@
 			(uuid "7cf54286-63a6-4670-841d-724dc2fca0a4")
 		)
 		(fp_line
-			(start 0.8 0.4)
-			(end -0.8 0.4)
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ce7f41d2-ebd5-4d13-bc9f-eb1d3aff92bc")
+			(uuid "e053b762-106a-49b1-bf4c-6b47c0c5542d")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0aaecf64-ac1d-49c8-b5d6-273f611f764e")
 		)
 		(fp_circle
 			(center -1.55 0)
@@ -23919,7 +23535,7 @@
 			(uuid "791e64fc-b07c-4da3-a234-321b7387925c")
 		)
 		(pad "1" smd rect
-			(at -0.8 0)
+			(at -0.8 0 180)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 91 "Net-(FL19-Pad3)")
@@ -23927,7 +23543,7 @@
 			(uuid "9b924b76-bffa-4868-ad57-7d77b5052c26")
 		)
 		(pad "2" smd custom
-			(at 0 0.4)
+			(at 0 0.4 180)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -23948,7 +23564,7 @@
 			(uuid "84f2915d-65a0-4ca5-8d8c-13db6822fedf")
 		)
 		(pad "2_1" smd rect
-			(at 0 -0.4)
+			(at 0 -0.4 180)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -23956,7 +23572,7 @@
 			(uuid "1b775639-33ba-4d8e-80b2-25889ede3a26")
 		)
 		(pad "2_2" thru_hole circle
-			(at 0 0.75)
+			(at 0 0.75 180)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -23966,7 +23582,7 @@
 			(uuid "d055f171-e1f3-4c45-8be6-775f546c261b")
 		)
 		(pad "2_3" thru_hole circle
-			(at 0 0)
+			(at 0 0 180)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -23976,7 +23592,7 @@
 			(uuid "704c537d-c3ee-4b6c-a2a1-462833598a22")
 		)
 		(pad "2_4" thru_hole circle
-			(at 0 -0.75)
+			(at 0 -0.75 180)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -23986,7 +23602,7 @@
 			(uuid "9d96b85e-926d-41c1-bfdf-fa4f01a23901")
 		)
 		(pad "3" smd rect
-			(at 0.8 0)
+			(at 0.8 0 180)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 19 "UHF_MISO")
@@ -26937,9 +26553,9 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "b1316a89-33b7-4be4-8ad9-f73dc1683382")
-		(at 140 126)
+		(at 139.85 119.75 90)
 		(property "Reference" "FL26"
-			(at 2.445 2.889 180)
+			(at 2.445 2.889 90)
 			(layer "B.SilkS")
 			(uuid "454862f6-f5da-4a19-8537-b67e31f5c86a")
 			(effects
@@ -26951,7 +26567,7 @@
 			)
 		)
 		(property "Value" "NFM18CC101R1C3D"
-			(at 14.891 -3.111 180)
+			(at 14.891 -3.111 90)
 			(layer "B.Fab")
 			(uuid "9b28d3ba-0783-4f9b-a8b6-6ee2e6c397cf")
 			(effects
@@ -26963,7 +26579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d4da3848-2278-4601-9103-5e66f89e5888")
@@ -26976,7 +26592,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "62be0114-e393-4e73-b85d-5b4198051281")
@@ -26989,7 +26605,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-6961-1-ND"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27003,7 +26619,7 @@
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27017,7 +26633,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Cap Feed Through 220pF 16VDC 20% Flat 0603 125C"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27031,7 +26647,7 @@
 			)
 		)
 		(property "PACKAGE" "0603 Murata"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27045,7 +26661,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27059,7 +26675,7 @@
 			)
 		)
 		(property "Package" "NONSTANDARD"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27073,7 +26689,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27087,7 +26703,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27101,7 +26717,7 @@
 			)
 		)
 		(property "MP" "NFM18CC101R1C3D"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27115,7 +26731,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27129,7 +26745,7 @@
 			)
 		)
 		(property "Description_1" "100 pF Feed Through Capacitor 16V 500 mA 300mOhm 0603 (1608 Metric), 3 PC Pad"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27148,18 +26764,6 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "f27ad9b1-a54c-4cfc-a38b-d6ed40a4cbdd")
-		)
-		(fp_poly
-			(pts
 				(xy -0.2 -0.2) (xy 0.2 -0.2) (xy 0.2 -0.6) (xy -0.2 -0.6)
 			)
 			(stroke
@@ -27169,18 +26773,6 @@
 			(fill yes)
 			(layer "B.Mask")
 			(uuid "338d63c0-2c3e-4009-bc74-d4925641c30c")
-		)
-		(fp_poly
-			(pts
-				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "c762719d-24c3-4146-98fa-307aa64da437")
 		)
 		(fp_poly
 			(pts
@@ -27194,6 +26786,30 @@
 			(layer "B.Mask")
 			(uuid "3c736193-0e05-4836-b64a-3618f180582f")
 		)
+		(fp_poly
+			(pts
+				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "f27ad9b1-a54c-4cfc-a38b-d6ed40a4cbdd")
+		)
+		(fp_poly
+			(pts
+				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "c762719d-24c3-4146-98fa-307aa64da437")
+		)
 		(fp_circle
 			(center -1.55 0)
 			(end -1.45 0)
@@ -27206,26 +26822,6 @@
 			(uuid "a53ced47-bd84-4a5a-862b-1c6a0d75be14")
 		)
 		(fp_line
-			(start -1.35 -1.2)
-			(end -1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "95ad907c-c4fc-4266-98dc-10c129651662")
-		)
-		(fp_line
-			(start -1.35 1.2)
-			(end 1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "878fdba5-bbfa-42d8-b434-80f75b10b394")
-		)
-		(fp_line
 			(start 1.35 -1.2)
 			(end -1.35 -1.2)
 			(stroke
@@ -27234,6 +26830,16 @@
 			)
 			(layer "B.CrtYd")
 			(uuid "17c931ed-13c4-4d0e-aa4b-75500f29f57d")
+		)
+		(fp_line
+			(start -1.35 -1.2)
+			(end -1.35 1.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "95ad907c-c4fc-4266-98dc-10c129651662")
 		)
 		(fp_line
 			(start 1.35 1.2)
@@ -27246,24 +26852,14 @@
 			(uuid "fff4bbe3-b55a-4cfb-9da8-28ca7a04bef9")
 		)
 		(fp_line
-			(start -0.8 -0.4)
-			(end 0.8 -0.4)
+			(start -1.35 1.2)
+			(end 1.35 1.2)
 			(stroke
-				(width 0.127)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "B.Fab")
-			(uuid "12ff6aff-9ea1-4613-9b30-6c2cf680f547")
-		)
-		(fp_line
-			(start -0.8 0.4)
-			(end -0.8 -0.4)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "ca100664-87eb-4e24-9c83-f98aa094e27e")
+			(layer "B.CrtYd")
+			(uuid "878fdba5-bbfa-42d8-b434-80f75b10b394")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -27276,6 +26872,16 @@
 			(uuid "6a3203ac-8bb8-4f8b-be35-88d4a8c823e3")
 		)
 		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "12ff6aff-9ea1-4613-9b30-6c2cf680f547")
+		)
+		(fp_line
 			(start 0.8 0.4)
 			(end -0.8 0.4)
 			(stroke
@@ -27284,6 +26890,16 @@
 			)
 			(layer "B.Fab")
 			(uuid "f58a4af2-7e25-4621-9b2b-528ee41ce070")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ca100664-87eb-4e24-9c83-f98aa094e27e")
 		)
 		(fp_circle
 			(center -1.55 0)
@@ -27297,7 +26913,7 @@
 			(uuid "f90a26be-d89c-4bc5-9dc3-18e99251c672")
 		)
 		(pad "1" smd rect
-			(at -0.8 0)
+			(at -0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 94 "Net-(FL25-Pad3)")
@@ -27305,7 +26921,7 @@
 			(uuid "f26f873c-ca76-4be3-857f-d48ad64e92bb")
 		)
 		(pad "2" smd custom
-			(at 0 0.4)
+			(at 0 0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -27326,7 +26942,7 @@
 			(uuid "2f57237b-f2ee-455f-b034-132465da4fd5")
 		)
 		(pad "2_1" smd rect
-			(at 0 -0.4)
+			(at 0 -0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -27334,7 +26950,7 @@
 			(uuid "d805e5ef-c176-46e7-8859-b411afa58c1a")
 		)
 		(pad "2_2" thru_hole circle
-			(at 0 0.75)
+			(at 0 0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -27344,7 +26960,7 @@
 			(uuid "a53fa949-9ffa-4095-99dd-1203a999445f")
 		)
 		(pad "2_3" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -27354,7 +26970,7 @@
 			(uuid "e99c39e2-7c6c-4d57-a452-bd14815b7ed7")
 		)
 		(pad "2_4" thru_hole circle
-			(at 0 -0.75)
+			(at 0 -0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -27364,7 +26980,7 @@
 			(uuid "f41df1cc-3ca6-4832-92c9-b4129856e5ec")
 		)
 		(pad "3" smd rect
-			(at 0.8 0)
+			(at 0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 24 "UHF_MOSI")
@@ -27377,7 +26993,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "cc6c3ca9-ee84-4c32-9690-bba0d854c0f1")
-		(at 160 131)
+		(at 166.75 74)
 		(property "Reference" "FL6"
 			(at 2.445 2.889 180)
 			(layer "B.SilkS")
@@ -27817,9 +27433,9 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "d4b1c46f-a31f-4fab-ad5d-ba5d9d299f13")
-		(at 136 127)
+		(at 134.5 119.8 90)
 		(property "Reference" "FL30"
-			(at 2.445 2.889 180)
+			(at -4.7 0.25 90)
 			(layer "B.SilkS")
 			(uuid "f193c7fe-12a9-4431-96c8-b109a380e612")
 			(effects
@@ -27831,7 +27447,7 @@
 			)
 		)
 		(property "Value" "NFM18CC101R1C3D"
-			(at 14.891 -3.111 180)
+			(at 14.891 -3.111 90)
 			(layer "B.Fab")
 			(uuid "73e5f4e6-02d7-4ea7-bdad-1904d0f898f9")
 			(effects
@@ -27843,7 +27459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6efc7dfe-b539-4a2a-ad66-d4910fb553a8")
@@ -27856,7 +27472,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "86b4dffb-0d8c-48f0-a62f-ca7ec378cc21")
@@ -27869,7 +27485,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-6961-1-ND"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27883,7 +27499,7 @@
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27897,7 +27513,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Cap Feed Through 220pF 16VDC 20% Flat 0603 125C"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27911,7 +27527,7 @@
 			)
 		)
 		(property "PACKAGE" "0603 Murata"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27925,7 +27541,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27939,7 +27555,7 @@
 			)
 		)
 		(property "Package" "NONSTANDARD"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27953,7 +27569,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27967,7 +27583,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27981,7 +27597,7 @@
 			)
 		)
 		(property "MP" "NFM18CC101R1C3D"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -27995,7 +27611,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -28009,7 +27625,7 @@
 			)
 		)
 		(property "Description_1" "100 pF Feed Through Capacitor 16V 500 mA 300mOhm 0603 (1608 Metric), 3 PC Pad"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -28028,18 +27644,6 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "368acbb8-3c01-44c6-96bf-d6db9facb9f8")
-		)
-		(fp_poly
-			(pts
 				(xy -0.2 -0.2) (xy 0.2 -0.2) (xy 0.2 -0.6) (xy -0.2 -0.6)
 			)
 			(stroke
@@ -28049,18 +27653,6 @@
 			(fill yes)
 			(layer "B.Mask")
 			(uuid "dc04aa0a-b2fe-418f-afe9-5e646804894d")
-		)
-		(fp_poly
-			(pts
-				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
-			)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.Mask")
-			(uuid "13ab41d4-0360-4113-ac83-9b0349cca905")
 		)
 		(fp_poly
 			(pts
@@ -28074,6 +27666,30 @@
 			(layer "B.Mask")
 			(uuid "da20810c-77dd-451d-bd3b-0d8ab1eea3b3")
 		)
+		(fp_poly
+			(pts
+				(xy -1.1 0.3) (xy -0.5 0.3) (xy -0.5 -0.3) (xy -1.1 -0.3)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "368acbb8-3c01-44c6-96bf-d6db9facb9f8")
+		)
+		(fp_poly
+			(pts
+				(xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 0.2) (xy -0.2 0.2)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "13ab41d4-0360-4113-ac83-9b0349cca905")
+		)
 		(fp_circle
 			(center -1.55 0)
 			(end -1.45 0)
@@ -28086,26 +27702,6 @@
 			(uuid "38be5734-2f20-40aa-94c0-d6f295c2b23d")
 		)
 		(fp_line
-			(start -1.35 -1.2)
-			(end -1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "5b26a6f1-7c8e-45f0-ba4d-1dacd3b5ebf1")
-		)
-		(fp_line
-			(start -1.35 1.2)
-			(end 1.35 1.2)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "c42c7c68-dad6-4613-9cbe-3a62d33536ba")
-		)
-		(fp_line
 			(start 1.35 -1.2)
 			(end -1.35 -1.2)
 			(stroke
@@ -28114,6 +27710,16 @@
 			)
 			(layer "B.CrtYd")
 			(uuid "c6dd8aa3-c3dd-40be-9c14-b0b0a65d3f43")
+		)
+		(fp_line
+			(start -1.35 -1.2)
+			(end -1.35 1.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "5b26a6f1-7c8e-45f0-ba4d-1dacd3b5ebf1")
 		)
 		(fp_line
 			(start 1.35 1.2)
@@ -28126,24 +27732,14 @@
 			(uuid "4dae24da-cc62-43c6-83f6-309f8400951a")
 		)
 		(fp_line
-			(start -0.8 -0.4)
-			(end 0.8 -0.4)
+			(start -1.35 1.2)
+			(end 1.35 1.2)
 			(stroke
-				(width 0.127)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "B.Fab")
-			(uuid "84de752a-8ff2-4a8b-af28-877efc84d263")
-		)
-		(fp_line
-			(start -0.8 0.4)
-			(end -0.8 -0.4)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "0286191d-0d41-4146-8ca1-1e9abbc0903b")
+			(layer "B.CrtYd")
+			(uuid "c42c7c68-dad6-4613-9cbe-3a62d33536ba")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -28156,6 +27752,16 @@
 			(uuid "26397256-f93d-44d4-bdd7-bd8c685a6d46")
 		)
 		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "84de752a-8ff2-4a8b-af28-877efc84d263")
+		)
+		(fp_line
 			(start 0.8 0.4)
 			(end -0.8 0.4)
 			(stroke
@@ -28164,6 +27770,16 @@
 			)
 			(layer "B.Fab")
 			(uuid "0e225f9b-0fc7-440d-b2b8-2c185c16d510")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0286191d-0d41-4146-8ca1-1e9abbc0903b")
 		)
 		(fp_circle
 			(center -1.55 0)
@@ -28177,7 +27793,7 @@
 			(uuid "6951c13c-be22-4182-b0dd-49ed9351d1ec")
 		)
 		(pad "1" smd rect
-			(at -0.8 0)
+			(at -0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 96 "Net-(FL29-Pad3)")
@@ -28185,7 +27801,7 @@
 			(uuid "d9fcc29a-4be5-4f85-81a4-5941a3e42597")
 		)
 		(pad "2" smd custom
-			(at 0 0.4)
+			(at 0 0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -28206,7 +27822,7 @@
 			(uuid "2dad3df7-45c7-4325-a973-4f0f720f2605")
 		)
 		(pad "2_1" smd rect
-			(at 0 -0.4)
+			(at 0 -0.4 90)
 			(size 0.4 0.4)
 			(layers "B.Cu" "B.Paste")
 			(net 27 "GND")
@@ -28214,7 +27830,7 @@
 			(uuid "db5a2777-9161-4848-9f52-cc52b14f5f33")
 		)
 		(pad "2_2" thru_hole circle
-			(at 0 0.75)
+			(at 0 0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -28224,7 +27840,7 @@
 			(uuid "a3fde691-c1cd-4c54-b007-d96a92eceac2")
 		)
 		(pad "2_3" thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -28234,7 +27850,7 @@
 			(uuid "e2de7764-3153-4286-af10-0850b25d7b5b")
 		)
 		(pad "2_4" thru_hole circle
-			(at 0 -0.75)
+			(at 0 -0.75 90)
 			(size 0.4 0.4)
 			(drill 0.3)
 			(layers "*.Cu")
@@ -28244,7 +27860,7 @@
 			(uuid "ddffd80e-818e-40d7-8b2b-6eef0430db18")
 		)
 		(pad "3" smd rect
-			(at 0.8 0)
+			(at 0.8 0 90)
 			(size 0.6 0.6)
 			(layers "B.Cu" "B.Paste")
 			(net 5 "UHF_RST")
