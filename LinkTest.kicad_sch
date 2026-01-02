@@ -4896,12 +4896,6 @@
 		(uuid "33ebd6b5-d5cf-47dc-9dd7-f2effb4faf0b")
 	)
 	(junction
-		(at 33.02 34.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3503f9ea-9741-4f34-871e-06e9e3d408cc")
-	)
-	(junction
 		(at 54.61 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5014,12 +5008,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80258a45-dfb7-49e6-b664-8e19869f8c10")
-	)
-	(junction
-		(at 33.02 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8227d7b4-19f4-4778-b938-4974909e3be4")
 	)
 	(junction
 		(at 48.26 158.75)
@@ -5545,7 +5533,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 54.61) (xy 50.8 54.61)
+			(xy 48.26 54.61) (xy 50.8 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5675,16 +5663,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 34.29) (xy 33.02 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "400f9fa9-721f-4da8-9af1-6a67ffda1854")
-	)
-	(wire
-		(pts
 			(xy 22.86 153.67) (xy 30.48 153.67)
 		)
 		(stroke
@@ -5705,7 +5683,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 34.29) (xy 36.83 36.83)
+			(xy 36.83 31.75) (xy 36.83 36.83)
 		)
 		(stroke
 			(width 0)
@@ -5802,16 +5780,6 @@
 			(type default)
 		)
 		(uuid "564ff5ba-f89b-4804-86d5-074e6622396b")
-	)
-	(wire
-		(pts
-			(xy 33.02 48.26) (xy 33.02 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56b27e35-0750-4ece-9a65-0d03c56044ef")
 	)
 	(wire
 		(pts
@@ -6205,16 +6173,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 54.61) (xy 33.02 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c6bcf5d-c9e8-459a-96a3-cd85a4b69077")
-	)
-	(wire
-		(pts
 			(xy 53.34 166.37) (xy 45.72 166.37)
 		)
 		(stroke
@@ -6465,16 +6423,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 34.29) (xy 36.83 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1089809-bdea-4abd-ab59-61dc3fe41187")
-	)
-	(wire
-		(pts
 			(xy 91.44 181.61) (xy 92.71 181.61)
 		)
 		(stroke
@@ -6552,16 +6500,6 @@
 			(type default)
 		)
 		(uuid "cc2b687a-96ea-4351-b9a9-dabeea64bd56")
-	)
-	(wire
-		(pts
-			(xy 33.02 34.29) (xy 33.02 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd2e9546-ec87-4575-82dd-8abb933a898d")
 	)
 	(wire
 		(pts
@@ -7643,7 +7581,7 @@
 	)
 	(global_label "UHF_CS"
 		(shape input)
-		(at 29.21 54.61 180)
+		(at 48.26 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7653,7 +7591,7 @@
 		)
 		(uuid "9f7a5c2a-1aed-4f49-85c0-0661c75914db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.0281 54.61 0)
+			(at 38.0781 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8629,77 +8567,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 33.02 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005e073ebc")
-		(property "Reference" "R1"
-			(at 31.75 43.053 0)
-			(effects
-				(font
-					(size 1.4986 1.4986)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 31.75 45.72 0)
-			(effects
-				(font
-					(size 1.4986 1.4986)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 34.036 44.704 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 33.02 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55b60e85-edc6-43a0-8699-76c694a6f647")
-		)
-		(pin "2"
-			(uuid "5bfef582-6ebe-4d6c-ae5d-971b8c240046")
-		)
-		(instances
-			(project "LinkTest"
-				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
-		(at 33.02 31.75 0)
+		(at 36.83 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8707,7 +8576,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006091151b")
 		(property "Reference" "#SUPPLY01"
-			(at 33.02 31.75 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8716,7 +8585,7 @@
 			)
 		)
 		(property "Value" "3.3V"
-			(at 30.48 27.94 0)
+			(at 34.29 27.94 0)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -8725,7 +8594,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 31.75 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8734,7 +8603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 31.75 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8743,7 +8612,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 33.02 31.75 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
