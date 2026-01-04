@@ -1129,7 +1129,7 @@
 	)
 	(global_label "VBATT_SENSE"
 		(shape input)
-		(at 228.6 152.4 0)
+		(at 208.28 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1139,7 +1139,7 @@
 		)
 		(uuid "d91215e1-d3ac-4a80-8fc8-db37d49353e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.9827 152.4 0)
+			(at 223.6627 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4108,72 +4108,6 @@
 			(project "LinkTest"
 				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d/241431e6-619d-4397-a5e7-fd06c388991d"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 213.36 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "570fc147-9984-4e70-9a09-f75c27420fb1")
-		(property "Reference" "#PWR061"
-			(at 213.36 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 213.36 161.6155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e09d566a-88e6-4a2d-9698-834e974d6027")
-		)
-		(instances
-			(project "LinkTest"
-				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d/241431e6-619d-4397-a5e7-fd06c388991d"
-					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -8397,72 +8331,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 213.36 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6ed525c-4ab9-4062-b85c-c932f59ab315")
-		(property "Reference" "#PWR062"
-			(at 213.36 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 213.36 161.6155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e405cb15-ad2c-486b-8d90-6de8097e4359")
-		)
-		(instances
-			(project "LinkTest"
-				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d/241431e6-619d-4397-a5e7-fd06c388991d"
-					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 193.04 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8781,199 +8649,6 @@
 			(project "LinkTest"
 				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d/241431e6-619d-4397-a5e7-fd06c388991d"
 					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "NFM18CC101R1C3D:NFM18CC101R1C3D")
-		(at 218.44 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d17ad32c-a56a-418a-987a-e452aa12c19f")
-		(property "Reference" "FL32"
-			(at 218.44 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NFM18CC101R1C3D"
-			(at 218.44 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NFM18CC101R1C3D:FIL_NFM18CC101R1C3D"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" "490-6961-1-ND"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" "Cap Feed Through 220pF 16VDC 20% Flat 0603 125C"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "0603 Murata"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "NONSTANDARD"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NFM18CC101R1C3D/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "NFM18CC101R1C3D"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "Unavailable"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "100 pF Feed Through Capacitor 16V 500 mA 300mOhm 0603 (1608 Metric), 3 PC Pad"
-			(at 218.44 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "90c12e73-272b-4da5-9264-30314b6d2ef4")
-		)
-		(pin "2_4"
-			(uuid "90326991-3e6f-43c6-96bb-08c8eec91b28")
-		)
-		(pin "3"
-			(uuid "6d5beaaf-7966-4ad2-8d1d-bfe511a5deca")
-		)
-		(pin "1"
-			(uuid "4d2e092c-6f9e-4920-b0ee-31dddbf9e331")
-		)
-		(pin "2_1"
-			(uuid "17b8c3c3-70b3-4ddb-bd7e-ad199ee0594e")
-		)
-		(pin "2_2"
-			(uuid "40e8dc57-2b0e-4634-8ec3-ef2469c7c343")
-		)
-		(pin "2_3"
-			(uuid "ec8f34ae-fba0-491c-97d9-b7208e70dbee")
-		)
-		(instances
-			(project "LinkTest"
-				(path "/3d2323df-23be-4a3b-b751-adfa941ae80d/241431e6-619d-4397-a5e7-fd06c388991d"
-					(reference "FL32")
 					(unit 1)
 				)
 			)
